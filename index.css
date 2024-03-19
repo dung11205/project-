@@ -1,0 +1,1261 @@
+.head{
+    background-color: #ee0a0a;
+}
+.header{
+    width: 1500px;
+    height: 86px;
+    border: 1px solid #cfcdcd;
+    margin: 0px auto 0px auto;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;  
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    background-color:  rgb(66, 66, 253);
+    border-radius: 7px;
+    margin-top: 23px;
+    margin-left: 160px;
+}
+.namelogo{
+    font-size: 30px;
+    margin-top: 26px;
+    color: rgb(75, 75, 241);
+}
+.thanhsearch{
+    width: 380px;
+    height: 33px;
+    margin-top: 25px;
+    margin-left: 105px;
+    border-radius: 5px 0px 0px 5px;
+    border: 2px solid blue;
+}
+.textseach{
+    margin-top: 4px;
+    margin-left: 10px;
+    font-size: 18px;
+    color: gray;
+}
+.thanhluachon{
+    width: 126px;
+    height: 33px;
+    margin-top: 25px;
+    margin-left: -11px;
+    border: 2px solid blue;
+    display: flex;
+}
+.textluachon{
+    margin-top: 5px;
+    margin-left: 8px;
+}
+.list{
+    margin-top: 5px;
+    margin-left: 3px;
+}
+.thanhthuchien{
+    width: 100px;
+    height: 35px;
+    margin-top: 25px;
+    margin-left: -10px;
+    border-radius: 0px 5px 5px 0px;
+    background-color: blue;
+    border: 1px solid blue;
+}
+.textthuchien{
+    font-size: 20px;
+    color: white;
+    margin-top: 5px;
+    margin-left: 19px;
+
+}
+.profile1{
+    margin-top: 25px;
+    margin-left: 150px;
+}
+.profile2{
+    margin-top: 3px;
+    margin-left: 140px;
+}
+.message1{
+    margin-top: 25px;
+    margin-left: 26px;
+}
+.message2{
+    margin-top: 2px;
+    margin-left: 10px;
+}
+.orders1{
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.orders2{
+    margin-top: 5px;
+    margin-left: 10px;
+}.mycart1{
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.mycart2{
+    margin-top: 2px;
+    margin-left: 10px;
+}
+.navbar{
+    width: 1500px;
+    height: 56px;
+    border: 1px solid #cfcdcd;
+    margin: 100px auto 0px auto;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+.menu1{
+    width: 25px;
+    height: 25px;
+    margin-top: 16px;
+    margin-left: 160px;
+}
+.allcategory{
+    font-size: 19px;
+    margin-top: 17px;
+    margin-left: 15px;
+}
+.hotoffers{
+    font-size: 19px;
+    margin-top: 17px;
+    margin-left: 25px;
+}
+.giftboxes{
+    font-size: 19px;
+    margin-top: 17px;
+    margin-left: 25px;
+}
+.project{
+    font-size: 19px;
+    margin-top: 17px;
+    margin-left: 25px;
+}
+.menuitem{
+    font-size: 19px;
+    margin-top: 17px;
+    margin-left: 25px;
+}
+.help{
+    font-size: 19px;
+    margin-top: 17px;
+    margin-left: 25px;
+}
+.muiten1{
+    width: 20px;
+    height: 25px;
+    margin-top: 17px;
+    margin-left: -10px;
+}
+.language{
+    font-size: 19px;
+    margin-top: 17px;
+    margin-left: 300px;
+}
+.muiten2{
+    width: 20px;
+    height: 25px;
+    margin-top: 16px;
+    margin-left: -8px;
+}
+.noigiao{
+    font-size: 19px;
+    margin-top: 17px;
+    margin-left: 15px;
+}
+.laco{
+    width: 4 0px;
+    height: 25px;
+    margin-top: 16px;
+    margin-left: -2px;
+}
+.section-main{
+    display: flex;
+    width: 1180px;
+    height: 400px;
+    top: 100px;
+    border: 1px solid #cfcdcd;
+    margin: 50px auto 0px auto;
+}
+.section-main2{
+    width: 270px;
+    height: 400px;
+    border: 1px solid rgb(255, 255, 255);
+}
+.section-main3{
+    width: 590px;
+    height: 370px;
+    margin-top: 13px;
+    border: 1px solid rgb(255, 255, 255);
+}
+.section-main4{
+    width: 290px;
+    height: 170px;
+    margin-top: 13px;
+    margin-left: 12px;
+    border: 1px solid rgb(255, 255, 255);
+}
+.textsection-main{
+    display: flex;
+}
+.textsection-main1{
+    margin-top: 16px;
+    margin-left: 23px;
+    font-size: 22px;    
+}
+.anhnen{
+    left: 618px;
+    top: 229px;
+    width: 590px;
+    height: 370px;  
+
+}
+.dangnhap{
+    width: 240px;
+    height: 160px;
+    top: 10px;
+    left: 1245px;
+    border: 1px solid rgb(211, 237, 245);
+    border-radius: 10px;
+    margin: 0px auto 0px auto;
+    background-color: rgb(211, 237, 245);
+}
+.loichao{
+    font-size: 19px;
+    margin-top: 10px;
+    margin-left: 63px;
+}
+.loichao1{
+    font-size: 19px;
+    margin-top: 2px;
+    margin-left: 63px;
+}
+.anhcanhan{
+    width: 37px;
+    height: 37px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 20px;
+}
+.anhcanhan1{
+    width: 47px;
+    height: 47px;
+    margin-top: -47px;
+    margin-left: 11px;
+    background-color: rgb(150, 217, 238);
+    border-radius: 30px;
+}
+.join{
+    width: 190px;
+    height: 35px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 6px;
+    background-color: rgb(87, 87, 247);
+    border: 1px solid rgb(87, 87, 247);
+}
+.textjoin{
+    margin-top: 6px;
+    text-align: center;
+}
+.textlogin{
+    margin-top: 6px;
+    text-align: center;
+}
+.login{
+    width: 190px;
+    height: 35px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 6px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 255, 255);
+}
+.giamgia1{
+    width: 240px;
+    height: 90px;
+    margin-top: 13px;
+    margin-left: 24px;
+    background-color: orange;
+    border: 1px solid orange;
+    border-radius: 12px;
+}
+.giamgia2{
+    width: 240px;
+    height: 90px;
+    margin-top: 13px;
+    margin-left: 24px;
+    background-color: rgb(105, 207, 185);
+    border: 1px solid rgb(105, 207, 185);
+    border-radius: 12px;
+}
+.textgiamgia{
+    margin-left: 15px;
+    font-size: 20px;
+    color: white;
+}
+.textgiamgia1{
+    margin-top: 10px;
+    margin-left: 15px;
+    font-size: 20px;
+    color: white;
+}
+.section-sale{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px; 
+    width: 1180px;
+    height: 240px;
+    border: 1px solid #cfcdcd;
+    margin: 50px auto 0px auto;
+}
+.text1{
+    font-size: 24px;
+    margin-top: 12px;
+    margin-left: 18px;
+}
+.text2{
+    font-size: 19px;
+    color: gray;
+    margin-top: 3px;
+    margin-left: 18px;
+}
+.time{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+.time1{
+    width: 40px;
+    height: 50px;
+    margin-left: 18px;
+    margin-top: 2px;
+    border: 1px solid #cfcdcd;
+    background-color: gray;
+    border-radius: 5px;
+}
+.so1{
+    font-size: 20px;
+    margin-top: 2px;
+    margin-left: 10px;
+    color: white;
+}
+.day{
+    font-size: 18px;
+    margin-top: 2px;
+    margin-left: 5px;
+    color: white;
+}
+.time2{
+    width: 40px;
+    height: 50px;
+    margin-left: -2px;
+    margin-top: 2px;
+    border: 1px solid gray;
+    background-color: gray;
+    border-radius: 5px;
+}
+.so2 {
+    font-size: 20px;
+    margin-top: 2px;
+    margin-left: 10px;
+    color: white;
+}
+.hour{
+    font-size: 18px;
+    margin-top: 2px;
+    margin-left: 2px;
+    color: white;
+}
+.time3{
+    width: 40px;
+    height: 50px;
+    margin-left: -2px;
+    margin-top: 2px;
+    border: 1px solid gray;
+    background-color: gray;
+    border-radius: 5px;
+}
+.so3{
+    font-size: 20px;
+    margin-top: 2px;
+    margin-left: 10px;
+    color: white;
+}
+.min{
+    font-size: 18px;
+    margin-top: 2px;
+    margin-left: 5.5px;
+    color: white;
+}
+.time4{
+    width: 40px;
+    height: 50px;
+    margin-left: -2px;
+    margin-top: 2px;
+    border: 1px solid gray;
+    background-color: gray;
+    border-radius: 5px;
+}
+.so4{
+    font-size: 20px;
+    margin-top: 2px;
+    margin-left: 10px;
+    color: white;
+}
+.sec{
+    font-size: 18px;
+    margin-top: 2px;
+    margin-left: 9px;
+    color: white;
+}
+.line{
+    width: 0px;
+    height: 240px;
+    margin-left: 60px;
+    margin-top: -75px;
+    border: 1px solid #cfcdcd;
+    border-radius: 5px;
+}
+.listitem1{
+    display: flex;
+    gap: 30px;
+    margin-top: 27px;
+    margin-left: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    font-size: 22px;
+}
+.item1{
+    width: 150px;
+    height: 250px;
+    margin-left: 1px ;
+    border-radius: 5px;
+}
+.iteming1{
+    width: 110px;
+    height: 100px;
+    margin-top: 8px;
+
+}
+.price1{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0px 20px 0px 20px;
+    margin-top: 6px;
+    background: #FFE3E3;
+    border-radius: 29px;
+    color: red;
+    padding: 5px 5px 5px 5px;
+}
+.line1{
+    width: 0px;
+    height: 240px;
+    margin-left: -17px ;
+    margin-right: -17px;
+    margin-top: -28px;
+    border: 1px solid #cfcdcd;
+    border-radius: 5px;
+}
+.block-items-group1{
+    display: flex;
+    width: 1180px;
+    height: 257px;
+    border: 1px solid #cfcdcd;
+    margin: 20px auto 0px auto;
+}
+.luachon{
+    width: 280px;
+    height: 258px;
+    margin-top: -1px;
+    margin-left: -1px;
+    border: 1px solid rgb(255, 255, 255);
+}
+.textluachon1{
+    font-size: 27px;
+    margin-top: -250px;
+    margin-left: 20px;
+    color: #000000;
+}
+.textluachon2{
+    font-size: 27px;
+    margin-left: 20px;
+    color: #000000;
+}
+.textluachon{
+    font-size: 18px;
+    text-align: center;
+    margin-left: -1px;
+    color: #ffffff;
+}
+.nutluachon{
+    width: 110px;
+    height: 36px;
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 20px;
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+.listluachon1{
+    display: flex;
+    width: 899px;
+    height: 128px;
+    margin-top: -1px;
+    margin-left: -1px;
+    border: 1px solid rgb(255, 255, 255);
+}
+.o1{
+    display: flex;
+}
+.item2{
+    width: 220px;
+    height: 310px;
+    border-radius: 5px;
+}
+.iteming2{
+    width: 78px;
+    height: 70px;
+    margin-top: 25px;
+    margin-left: -89px;
+}
+.price2{
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 18px;
+    margin-left: 18px;
+}
+.info2{
+    font-size: 15px;
+    margin-top: 18px;
+    margin-left: 18px;
+    color:  gray;
+}
+.info3{
+    font-size: 15px;
+    margin-left: 18px;
+    color:  gray;
+}
+.listluachon2{
+    display: flex;
+    width: 899px;
+    height: 128px;
+    margin-top: -1px;
+    margin-left: -1px;
+    border: 1px solid rgb(255, 255, 255);
+}
+.o1{
+    width: 290px;
+    height: 128px;
+    border: 1px solid gainsboro;
+}
+.section-iquiry{
+    width: 1180px;
+    height: 420px;
+    border: 1px solid #cfcdcd;
+    margin: 20px auto 0px auto;
+}
+.timkiemhang{
+    width: 479px;
+    height: 360px;
+    margin-top: -395px;
+    margin-left: 650px;
+    background-color: white;
+    border: 1px;
+    position: absolute;
+    border-radius: 10px;
+}
+.textimkiemhang{
+    font-size: 24px;
+    margin-top: 28px;
+    margin-left: 30px;
+}
+.khungtexttimkiemhang{
+    width: 410px;
+    height: 27px;
+    margin-top: 28px;
+    margin-left: 30px;
+    border-radius: 3px;
+    border: 1px solid gray;
+}
+.textimkiemhang1{
+    font-size: 17px;
+    margin-top: 4px;
+    margin-left: 10px;
+}
+.khungtexttimkiemhang1{
+    width: 410px;
+    height: 87px;
+    margin-top: 15px;
+    margin-left: 30px;
+    border-radius: 3px;
+    border: 1px solid gray;
+}
+.textimkiemhang2{
+    font-size: 17px;
+    margin-top: 4px;
+    margin-left: 10px;
+    color: #cfcdcd;
+}
+.khungtexttimkiemhang2{
+    display: flex;
+}
+.khungtextimkiemhang3{
+    width: 200px;
+    height: 37px;
+    margin-top: 15px;
+    margin-left: 30px;
+    border-radius: 3px;
+    border: 1px solid gray;
+}
+.textimkiemhang3{
+    font-size: 17px;
+    margin-top: 8px;
+    margin-left: 10px;
+    color: black;
+}
+.khungtextimkiemhang4{
+    width: 100px;
+    height: 37px;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 3px;
+    border: 1px solid gray;
+    display: flex;
+}
+.textimkiemhang4{
+    font-size: 17px;
+    margin-top: 8px;
+    margin-left: 10px;
+    color: black;
+}
+.listtimhang{
+    margin-top: 7px;
+margin-left: 35px;
+}
+.khungtextimkiemhang5{
+    width: 120px;
+    height: 37px;
+    margin-top: 15px;
+    margin-left: 30px;
+    border-radius: 3px;
+    border: 1px solid gray;
+    background-color: blue;
+}
+.textimkiemhang5{
+    font-size: 17px;
+    margin-top: 8px;
+    margin-left: 16px;
+    color: white;
+}
+.anhtimhang{
+    background-image:none;
+    background-color: blue;
+    position: relative;
+}
+.textmathang1{
+    color: white;
+    font-size: 40px;
+    margin-top: -390px;
+    margin-left: 45px;
+    position: relative;
+
+}
+.textmathang2{
+    color: white;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 45px;
+    position: relative;
+}
+.loaimathang{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(253, 8, 8);
+    border: 1px solid white;
+    position: relative;
+}
+.block-items-group2{
+    display: flex;
+    width: 1180px;
+    height: 257px;
+    border: 1px solid #cfcdcd;
+    margin: 20px auto 0px auto;
+}
+.section-recommend{
+    width: 1180px;
+    height: 696px;
+    margin: 30px auto 0px auto;
+}
+.recommenditem{
+    font-size: 35px;
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.listitem{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+}
+.item{
+    width: 220px;
+    height: 310px;
+    margin-left: 5px;
+    border: 1px solid #cfcdcd;
+    border-radius: 5px;
+}
+.iteming{
+    width: 160px;
+    height: 170px;
+    margin: 5px 25px 5px 25px;
+}
+.price{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0px 20px 0px 20px;
+}
+.info{
+    margin: 0px 20px 0px 20px;
+    color:  gray;
+}
+.section-service{
+    width: 1180px;
+    height: 256px;
+    border: 1px solid #cfcdcd;
+    margin: 70px auto 0px auto;
+    display: flex ;
+}
+.donggoihang{
+    width: 280px;
+    height: 256px;
+    margin-left: 17px;
+    border: 1px solid #cfcdcd;
+    border-radius: 10px;
+}
+.donggoihang1{
+    width: 280px;
+    height: 256px;
+    border: 1px solid #cfcdcd;
+    border-radius: 10px;
+}
+.anhdonggoihang{
+    width: 280px;
+    height: 150px;
+    border: 1px solid #cfcdcd;
+    border-radius: 10px;
+}
+.anhdonggoihang1{
+    width: 279px;
+    height: 150px;
+    background-color: #000000;
+    border-radius: 10px;
+}
+.nuticon{
+    width: 60px;
+    height: 60px;
+    margin-top: 125px;
+    margin-left: 200px;
+    border: 1px solid #cfcdcd;
+    border-radius: 30px;
+    position: absolute;
+    background-color: lightblue;
+}
+.nuticon1{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.textdonggoihang{
+    font-size: 20px;
+    margin-top: 180px;
+    margin-left: 15px;
+    position: absolute;
+
+}
+.khungkhohang{
+    width: 280px;
+    height: 200px;
+    border: 1px solid white;
+    background-color: white;
+}
+.cion1{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 210px;
+    top: 100px;
+    background-color: #D1E7FF;
+    border-radius: 26px;
+    border: 1px solid white;
+}
+.anhsearch{
+    position: absolute;
+    height: 17px;
+    width: 17px;
+    left: 20px;
+    top: 20px;
+}
+.anhkhohang{
+    height: 120px;
+    width: 280px;
+                            
+}
+.chukhohang{
+    top: 40px;
+    left: -190px;
+    width: 215px;
+    height: 44px; 
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;        
+}
+.khungcustom{
+    top: 0px;
+    left: 300px;
+    width: 280px;
+    height: 200px;
+    border: 1px solid white;
+    background-color: white;
+}
+.khungmaybay{
+    top: 0px;
+    left: 600px;
+    width: 280px;
+    height: 200px;
+    border: 1px solid white;
+    background-color: white;
+}
+.khunglogo1{
+    top: 0px;
+    left: 900px;
+    width: 280px;
+    height: 200px;
+    border: 1px solid white;
+    background-color: white;
+}
+.section-country{
+    width: 1180px;
+    height: 210px;
+    border: 1px solid #cfcdcd;
+    margin: 10px auto 0px auto;
+}
+.khungchua{
+    display: flex;
+    width: 1200px;
+    height: 260px;
+    margin-top: 2%;
+}
+.extra{
+    display: flex;
+    width: 1180px;
+    height: 256px;
+    position: absolute;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -0.2px;
+    margin-left: 5px    ;
+}
+.khunganhquocgia1{
+    width: 261px;
+height: 36px;
+
+margin-top: 60px;
+}
+
+.textchuquocgia{
+    margin: -25px 50px;
+}                   
+.shopname{
+    margin: 25px 50px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    color: #8B96A5;
+}
+.khungchua2{
+    display: flex;
+    width: 1200px;
+    height: 260px;
+    margin-top: -17%;
+}
+.newsletter-alibaba{
+    width: 1180px;
+    height: 190px;
+    border: 1px solid #cfcdcd;
+    margin: 10px auto 0px auto;
+}
+
+.khungsubrice{
+    width: 617px;
+    height: 113px;
+    margin: 2% 22% ;
+}
+.textsubrice{
+    text-align: center;
+    width: 268px;
+    height: 28px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    margin: 10px 30%;
+    letter-spacing: -0.2px;
+    margin: 1px auto 0px auto;
+}
+.chugetdaily{
+    text-align: center;
+    margin-top: -10px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+letter-spacing: -0.2px;
+}
+.form{
+    display: flex;
+    width: 300px;
+    height: 40px;
+    border: 1px solid gray;
+    margin-top: 15px;
+    margin-left: 15%;
+    border-radius: 6px;
+}
+.khungemail{
+    width: 250px;
+    height: 40px;
+    
+    border-radius: 6px;
+}
+.khungsubride{
+    width: 110px;
+    height: 40px;
+    
+    background-color: blue;
+    margin: 0px 125%;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+   text-align: center;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   color: white;
+   border-radius: 6px;
+}.anhemail{
+   position: absolute;
+   margin-top: -28px;
+    margin-left: 5px;
+}
+.chuemail{
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+margin-top: -28px;
+    margin-left: 30px;
+    color: #8B96A5;
+}
+.footer-alibaba{
+    width: 1440px;
+    height: 256px;
+   margin-left: -129px;
+   margin-top: 0px;
+    border: 1px solid gray;
+    display: flex;
+    margin: 0px auto 0px auto;
+}
+
+.group552{
+    
+    Width: 276px;
+Height :157px;
+margin-left: 129px;
+margin-top: 40px;
+
+
+}
+.logo-552{
+    width: 150px;
+    height: 46px;
+   
+    display: flex;
+    
+}
+.ten-logo{
+    width: 77px;
+    height: 21px;
+    color:  rgba(140, 183, 245, 1);
+    margin-top: 12px;
+    margin-left: 5px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.box1-552{
+    width: 38.26px;
+    height: 40.17px;
+    background-color:#0D6EFD;
+    margin-top: 2.91px; 
+    border-radius: 5px;
+}
+.text1-552{
+    width: 276px;
+    height: 48px;
+    margin-top: 17.91px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #505050;
+   
+}
+.box2-552{
+    width: 200px;
+    height: 32px;
+    
+    margin-top: 13px;
+    display: flex;
+}
+.gr1{
+    width: 32px;
+   height: 32px;
+   
+    
+}
+.gr2{
+    width: 32px;
+   height: 32px;
+    
+ margin-left: 10px;
+}
+.col1{
+    width: 81px;
+    height: 137px;
+    margin-top: 40px;
+    margin-left: 61px;
+  
+}
+.text-link1{
+    
+    width: 108px;
+    height: 22px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    color: #1C1C1C;
+}
+.text-link2{
+    width: 108px;
+    height: 24px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #8B96A5;
+    margin-top: 3px;
+}
+.col2{
+    width: 90px;
+    height: 137px;
+    margin-top: 40px;
+    margin-left: 64px;
+  
+}
+.col3{
+    width: 108px;
+    height: 137px;
+    margin-top: 40px;
+    margin-left: 73px;
+   
+}
+.col4{
+    width: 108px;
+    height: 137px;
+    margin-top: 40px;
+    margin-left: 91px;
+    
+}
+.col5{
+    width: 126px;
+    height: 129px;
+    margin-top: 40px;
+    margin-left: 75px;
+    
+}
+.box1-col5{
+    width: 124px;
+    height: 42px;
+    background-color: #1C1C1C;
+    border-radius: 7px;
+    margin-top: 10px;
+}
+.box2-col5{
+    width: 124px;
+    height: 42px;
+    background-color: #1C1C1C;
+    border-radius: 7px;
+    margin-top: 10px;
+}
+.anh-clo5{
+    margin-top: 7px;
+    margin-left: 8px;
+}
+.logoshop{
+    background-color: #fd0d0d;
+}
+.footer{
+    width: 1440px;
+    height: 68px;
+   margin-left: -129px;
+   margin-top: 0px;
+    border: 1px solid white;
+    background-color: white;
+    display: flex;
+    margin: 1px auto 1px auto;
+}
+.text-footer{
+    width: 320px;
+    height: 24px;
+    margin-left: 128px;
+    margin-top: 23px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    font-style: normal ;
+}
+.group968{
+    width: 107px;
+    height: 24px;
+    margin-left: 749px;
+
+    margin-top: 23px;
+    display: flex;
+
+}
+.text-group968{
+    width: 53px;
+    height: 24px;
+    margin-left: 6px;
+    line-height: 24px;
+}
+.icon-muiten{
+    width: 24px;
+    height: 24px;
+    margin-left: 5px;
+    padding-top: 2px;
+}
+.block-items-group1{
+    display: flex;
+    width: 1180px;
+    height: 257px;
+    border: 1px solid #cfcdcd;
+    margin: 20px auto 0px auto;
+}
+.luachon{
+    width: 280px;
+    height: 258px;
+    margin-top: -1px;
+    margin-left: -1px;
+    border: 1px solid rgb(255, 255, 255);
+}
+.textluachon1{
+    font-size: 27px;
+    margin-top: -250px;
+    margin-left: 20px;
+    color: #000000;
+}
+.textluachon2{
+    font-size: 27px;
+    margin-left: 20px;
+    color: #000000;
+}
+.textluachon{
+    font-size: 18px;
+    text-align: center;
+    margin-left: -1px;
+    color: #ffffff;
+}
+.nutluachon{
+    width: 110px;
+    height: 36px;
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 20px;
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+.listluachon1{
+    display: flex;
+    width: 899px;
+    height: 128px;
+    margin-top: -1px;
+    margin-left: -1px;
+    border: 1px solid rgb(255, 255, 255);
+}
+.o1{
+    display: flex;
+}
+.item2{
+    width: 220px;
+    height: 310px;
+    border-radius: 5px;
+}
+.iteming2{
+    width: 78px;
+    height: 70px;
+    margin-top: 25px;
+    margin-left: -89px;
+}
+.price2{
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 18px;
+    margin-left: 18px;
+}
+.info2{
+    font-size: 15px;
+    margin-top: 18px;
+    margin-left: 18px;
+    color:  gray;
+}
+.info3{
+    font-size: 15px;
+    margin-left: 18px;
+    color:  gray;
+}
+.listluachon2{
+    display: flex;
+    width: 899px;
+    height: 128px;
+    margin-top: -1px;
+    margin-left: -1px;
+    border: 1px solid rgb(255, 255, 255);
+}
+.o1{
+    width: 290px;
+    height: 128px;
+    border: 1px solid gainsboro;
+}
+.logobrad{
+    width: 130px;
+    height: 50px;
+    margin-top: 15px;
+    margin-left: 160px;
+}
+.logobrad1{
+    width: 130px;
+    height: 50px;
+}
